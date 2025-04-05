@@ -2,6 +2,14 @@ body {
   background-color: black;
 }
 
+input {
+  background: orange;
+}
+
+button {
+  background-color: crimson;
+}
+
 img.profile {
   width: 220px;
   display: block;
