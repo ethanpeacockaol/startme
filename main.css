@@ -4,10 +4,12 @@ body {
 
 input {
   background: orange;
+  height: 40px;
 }
 
 button {
   background-color: crimson;
+  height: 40px;
 }
 
 img.profile {
