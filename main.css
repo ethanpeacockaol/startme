@@ -2,6 +2,11 @@ body {
   background-color: black;
 }
 
+img.profile {
+  width: 220px;
+  display: block;
+  margin: auto;
+}
 
 img.icons {
 	width: 110px;
@@ -72,6 +77,11 @@ p.yoalys {
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
+  img.profile {
+    width: 70px;
+    display: block;
+    margin: auto;
+  }
   img.icons {
     width: 40px;
   }
