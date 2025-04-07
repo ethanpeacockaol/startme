@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  touch-action: manipulation;
+  touch-action: pan-y;
 }
 
 input {
