@@ -4,13 +4,20 @@ body {
 }
 
 input {
-  background: orange;
+  background: rgb(207, 135, 0);
   height: 40px;
 }
 
+input::placeholder {
+  color: black;
+  font-weight: 900;
+}
+
 button {
-  background-color: crimson;
+  background-color: rgb(161, 94, 108);
   height: 40px;
+  font-weight: 700;
+
 }
 
 img.profile {
