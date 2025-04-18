@@ -1,0 +1,119 @@
+body {
+  background-color: black;
+  touch-action: pan-y;
+}
+
+input {
+  background: rgb(207, 135, 0);
+  height: 40px;
+}
+
+input::placeholder {
+  color: black;
+  font-weight: 900;
+}
+
+button {
+  background-color: rgb(161, 94, 108);
+  height: 40px;
+  font-weight: 700;
+
+}
+
+img.profile {
+  width: 220px;
+  display: block;
+  margin: auto;
+}
+
+img.icons {
+	width: 110px;
+}
+
+a {
+	text-decoration: none;
+	color: crimson;
+	font-size: 70px;
+}
+
+a:hover {
+  color:chocolate
+}
+
+a:active {
+  color: rgb(212, 172, 172);
+}
+
+hr {
+	background: white;
+	height: 20px;
+}
+
+.codystar-light {
+  font-family: "Codystar", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.codystar-regular {
+  font-family: "Codystar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+p.yoalys {
+  text-align: center;
+  font-size: 30px;
+  color: #cecb16;
+  font-family: "Codystar";
+  font-weight: 1000;
+}
+
+
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+  a {
+    font-size: 40px;
+  }
+}        
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+  a {
+    font-size: 40px;
+  }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+  img.profile {
+    width: 70px;
+    display: block;
+    margin: auto;
+  }
+  img.icons {
+    width: 40px;
+  }
+
+  hr {
+    height: 5px;
+  }
+
+  a {
+    font-size: 20px;
+  }
+}
+
