@@ -4,5 +4,8 @@
 
 This is a self hosted clone of start.me ishly
 
+![demo1](demo1.JPG)  
 
-TODO: ADD NEW GIF
+<hr>  
+
+![demo2](demo2.png)
