@@ -4,4 +4,5 @@
 
 This is a self hosted clone of start.me ishly
 
-![demo](startme.gif)
+
+TODO: ADD NEW GIF
